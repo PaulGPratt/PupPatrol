@@ -2,8 +2,8 @@
 #define __GAME_SCENE_H__
 
 #include "cocos2d.h"
-#include "Pipe.h"
-#include "Bird.h"
+
+class GameGrid;
 
 class GameScene : public cocos2d::Layer
 {
@@ -18,21 +18,16 @@ public:
     CREATE_FUNC(GameScene);
     
 private:
-    void SetPhysicsWorld( cocos2d::PhysicsWorld *world ) { sceneWorld = world; };
     
-    void SpawnPipe ( float dt);
     
-    bool onContactBegin(cocos2d::PhysicsContact &contact);
     
-    bool onTouchBegan(cocos2d::Touch *touch, cocos2d::Event *event);
-    
-    void StopFlying(float dt);
     void update(float dt);
     
-    cocos2d::PhysicsWorld *sceneWorld;
-    Pipe pipe;
+    GameGrid *gameGridA;
+    GameGrid *gameGridB;
     
-    Bird *bird;
+    cocos2d::Label *playerGoldA;
+    cocos2d::Label *playerGoldB;
     
     unsigned int score;
 };

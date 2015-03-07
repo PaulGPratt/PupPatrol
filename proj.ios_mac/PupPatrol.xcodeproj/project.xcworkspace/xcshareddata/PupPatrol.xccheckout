@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F632F3B3-0216-447F-AC44-9357F6215147</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PupPatrol</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>72D699F7C5CA36988EBDAEF903AAAA234AED410F</key>
+		<string>https://github.com/invocial/PupPatrol.git</string>
+		<key>BEF978D470F1DECCA8A244F4B070F25CD8A9C5E2</key>
+		<string>https://github.com/invocial/PupPatrol-Classes.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>proj.ios_mac/PupPatrol.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>72D699F7C5CA36988EBDAEF903AAAA234AED410F</key>
+		<string>../../..</string>
+		<key>BEF978D470F1DECCA8A244F4B070F25CD8A9C5E2</key>
+		<string>../../..Classes/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/invocial/PupPatrol.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>72D699F7C5CA36988EBDAEF903AAAA234AED410F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BEF978D470F1DECCA8A244F4B070F25CD8A9C5E2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Classes</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>72D699F7C5CA36988EBDAEF903AAAA234AED410F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PupPatrol</string>
+		</dict>
+	</array>
+</dict>
+</plist>
