@@ -2,7 +2,7 @@
 #include "SplashScene.h"
 
 // is the game landscape or portrait (true for landscape and false for portrait)
-#define IS_LANDSCAPE false
+#define IS_LANDSCAPE true
 
 USING_NS_CC;
 
@@ -72,6 +72,7 @@ bool AppDelegate::applicationDidFinishLaunching() {
     }
     else if ( 1334 == screenSize.width || 1334 == screenSize.height ) // iphone 6
     {
+        resDirOrders.push_back( "iphone6" );
         resDirOrders.push_back( "iphonehd5" );
         resDirOrders.push_back( "iphonehd" );
         resDirOrders.push_back( "iphone" );

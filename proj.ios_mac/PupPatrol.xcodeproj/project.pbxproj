@@ -64,10 +64,12 @@
 		92D255B51AA6536F001D8A51 /* SplashScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 92D255B31AA6536F001D8A51 /* SplashScene.cpp */; };
 		92D255B81AA65417001D8A51 /* MainMenuScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 92D255B61AA65417001D8A51 /* MainMenuScene.cpp */; };
 		92D255BB1AA65424001D8A51 /* GameScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 92D255B91AA65424001D8A51 /* GameScene.cpp */; };
-		92D255BE1AA6542B001D8A51 /* GameOverScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 92D255BC1AA6542B001D8A51 /* GameOverScene.cpp */; };
 		92D255C11AA6676C001D8A51 /* HelloWorld.png in Resources */ = {isa = PBXBuildFile; fileRef = 92D255C01AA6676C001D8A51 /* HelloWorld.png */; };
-		92D255C41AA6758C001D8A51 /* Pipe.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 92D255C21AA6758C001D8A51 /* Pipe.cpp */; };
-		92D255C81AA76181001D8A51 /* Bird.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 92D255C61AA76181001D8A51 /* Bird.cpp */; };
+		92D255D21AAA24B1001D8A51 /* iphone6 in Resources */ = {isa = PBXBuildFile; fileRef = 92D255D11AAA24B1001D8A51 /* iphone6 */; };
+		92D255D51AAA30BA001D8A51 /* GameGrid.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 92D255D31AAA30BA001D8A51 /* GameGrid.cpp */; };
+		92D255D81AAA5376001D8A51 /* GridSpace.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 92D255D61AAA5376001D8A51 /* GridSpace.cpp */; };
+		92D255DB1AAA56FF001D8A51 /* Creep.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 92D255D91AAA56FF001D8A51 /* Creep.cpp */; };
+		92D255DE1AAA5834001D8A51 /* Tower.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 92D255DC1AAA5834001D8A51 /* Tower.cpp */; };
 		BF171245129291EC00B8313A /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF170DB012928DE900B8313A /* OpenGLES.framework */; };
 		BF1712471292920000B8313A /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BF170DB412928DE900B8313A /* libz.dylib */; };
 		BF1C47F01293687400B63C5D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF1C47EA1293683800B63C5D /* QuartzCore.framework */; };
@@ -168,14 +170,17 @@
 		92D255B71AA65417001D8A51 /* MainMenuScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuScene.h; sourceTree = "<group>"; };
 		92D255B91AA65424001D8A51 /* GameScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GameScene.cpp; sourceTree = "<group>"; };
 		92D255BA1AA65424001D8A51 /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
-		92D255BC1AA6542B001D8A51 /* GameOverScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GameOverScene.cpp; sourceTree = "<group>"; };
-		92D255BD1AA6542B001D8A51 /* GameOverScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameOverScene.h; sourceTree = "<group>"; };
 		92D255BF1AA656EE001D8A51 /* Definitions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Definitions.h; sourceTree = "<group>"; };
 		92D255C01AA6676C001D8A51 /* HelloWorld.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HelloWorld.png; sourceTree = "<group>"; };
-		92D255C21AA6758C001D8A51 /* Pipe.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Pipe.cpp; sourceTree = "<group>"; };
-		92D255C31AA6758C001D8A51 /* Pipe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pipe.h; sourceTree = "<group>"; };
-		92D255C61AA76181001D8A51 /* Bird.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Bird.cpp; sourceTree = "<group>"; };
-		92D255C71AA76181001D8A51 /* Bird.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Bird.h; sourceTree = "<group>"; };
+		92D255D11AAA24B1001D8A51 /* iphone6 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = iphone6; sourceTree = "<group>"; };
+		92D255D31AAA30BA001D8A51 /* GameGrid.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GameGrid.cpp; sourceTree = "<group>"; };
+		92D255D41AAA30BA001D8A51 /* GameGrid.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameGrid.h; sourceTree = "<group>"; };
+		92D255D61AAA5376001D8A51 /* GridSpace.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GridSpace.cpp; sourceTree = "<group>"; };
+		92D255D71AAA5376001D8A51 /* GridSpace.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GridSpace.h; sourceTree = "<group>"; };
+		92D255D91AAA56FF001D8A51 /* Creep.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Creep.cpp; sourceTree = "<group>"; };
+		92D255DA1AAA56FF001D8A51 /* Creep.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Creep.h; sourceTree = "<group>"; };
+		92D255DC1AAA5834001D8A51 /* Tower.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Tower.cpp; sourceTree = "<group>"; };
+		92D255DD1AAA5834001D8A51 /* Tower.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tower.h; sourceTree = "<group>"; };
 		BF170DB012928DE900B8313A /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		BF170DB412928DE900B8313A /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		BF1C47EA1293683800B63C5D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
@@ -303,6 +308,7 @@
 				92D255A91AA6517C001D8A51 /* iphone */,
 				92D255AA1AA6517C001D8A51 /* iphonehd */,
 				92D255AB1AA6517C001D8A51 /* iphonehd5 */,
+				92D255D11AAA24B1001D8A51 /* iphone6 */,
 				92D255AC1AA6517C001D8A51 /* Sounds */,
 				521A8EA819F11F5000D177D7 /* fonts */,
 				3EACC98E19EE6D4300EB3C5E /* res */,
@@ -317,21 +323,23 @@
 		46880B8319C43A87006E1F66 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				92D255BF1AA656EE001D8A51 /* Definitions.h */,
 				46880B8419C43A87006E1F66 /* AppDelegate.cpp */,
 				46880B8519C43A87006E1F66 /* AppDelegate.h */,
-				92D255C61AA76181001D8A51 /* Bird.cpp */,
-				92D255C71AA76181001D8A51 /* Bird.h */,
-				92D255BF1AA656EE001D8A51 /* Definitions.h */,
 				92D255B31AA6536F001D8A51 /* SplashScene.cpp */,
 				92D255B41AA6536F001D8A51 /* SplashScene.h */,
 				92D255B61AA65417001D8A51 /* MainMenuScene.cpp */,
 				92D255B71AA65417001D8A51 /* MainMenuScene.h */,
-				92D255C21AA6758C001D8A51 /* Pipe.cpp */,
-				92D255C31AA6758C001D8A51 /* Pipe.h */,
 				92D255B91AA65424001D8A51 /* GameScene.cpp */,
 				92D255BA1AA65424001D8A51 /* GameScene.h */,
-				92D255BC1AA6542B001D8A51 /* GameOverScene.cpp */,
-				92D255BD1AA6542B001D8A51 /* GameOverScene.h */,
+				92D255D31AAA30BA001D8A51 /* GameGrid.cpp */,
+				92D255D41AAA30BA001D8A51 /* GameGrid.h */,
+				92D255D61AAA5376001D8A51 /* GridSpace.cpp */,
+				92D255D71AAA5376001D8A51 /* GridSpace.h */,
+				92D255D91AAA56FF001D8A51 /* Creep.cpp */,
+				92D255DA1AAA56FF001D8A51 /* Creep.h */,
+				92D255DC1AAA5834001D8A51 /* Tower.cpp */,
+				92D255DD1AAA5834001D8A51 /* Tower.h */,
 			);
 			name = Classes;
 			path = ../Classes;
@@ -502,6 +510,7 @@
 				5087E78017EB970100C73F5D /* Icon-114.png in Resources */,
 				50EF62A217ECD613001EB2F8 /* Icon-29.png in Resources */,
 				92D255AE1AA6517C001D8A51 /* ipadhd in Resources */,
+				92D255D21AAA24B1001D8A51 /* iphone6 in Resources */,
 				50EF629617ECD46A001EB2F8 /* Icon-40.png in Resources */,
 				92D255B21AA6517C001D8A51 /* Sounds in Resources */,
 				5087E78217EB970100C73F5D /* Icon-144.png in Resources */,
@@ -535,15 +544,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				92D255C41AA6758C001D8A51 /* Pipe.cpp in Sources */,
+				92D255D51AAA30BA001D8A51 /* GameGrid.cpp in Sources */,
+				92D255DB1AAA56FF001D8A51 /* Creep.cpp in Sources */,
 				46880B8819C43A87006E1F66 /* AppDelegate.cpp in Sources */,
 				92D255B51AA6536F001D8A51 /* SplashScene.cpp in Sources */,
+				92D255D81AAA5376001D8A51 /* GridSpace.cpp in Sources */,
 				503AE10017EB989F00D1A890 /* AppController.mm in Sources */,
-				92D255C81AA76181001D8A51 /* Bird.cpp in Sources */,
+				92D255DE1AAA5834001D8A51 /* Tower.cpp in Sources */,
 				503AE10217EB989F00D1A890 /* RootViewController.mm in Sources */,
 				92D255BB1AA65424001D8A51 /* GameScene.cpp in Sources */,
 				92D255B81AA65417001D8A51 /* MainMenuScene.cpp in Sources */,
-				92D255BE1AA6542B001D8A51 /* GameOverScene.cpp in Sources */,
 				503AE10117EB989F00D1A890 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
