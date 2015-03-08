@@ -12,14 +12,31 @@
 #include <stdio.h>
 #include "cocos2d.h"
 
-class Creep
+class GameGrid;
+class GridSpace;
+class Tower;
+
+class Creep : public cocos2d::Node
 {
 public:
-    Creep( cocos2d::Layer *layer );
+    Creep(cocos2d::Layer *layer, GameGrid *gameGrid, GridSpace *spawnSpace);
     
 private:
     cocos2d::Size visibleSize;
     cocos2d::Vec2 origin;
+    
+    GameGrid *grid;
+    cocos2d::Sprite *creepSprite;
+    
+    int maxHp;
+    int currentHp;
+    int bounty;
+    float moveSpeed;
+    
+    Tower *attackedBy;
+    
+    cocos2d::DrawNode *healthBar;
+    
     
 };
 

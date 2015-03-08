@@ -18,14 +18,18 @@ class GridSpace;
 class Tower;
 
 
-class GameGrid : public cocos2d::Node
+class GameGrid : public cocos2d::Sprite
 {
 public:
     GameGrid( cocos2d::Layer *layer );
     
 private:
-    bool onTouchBegan(cocos2d::Touch *touch, cocos2d::Event *event);
+    
+    GridSpace* gridSpaceForTouchPosition( cocos2d::Vec2 touchPosition );
     void setupGrid();
+    bool onTouchBegan( cocos2d::Touch *touch, cocos2d::Event *event );
+    bool validSpaceForTower( GridSpace *space );
+    bool canConstructValidPathWithout( GridSpace *space );
     
     cocos2d::Size visibleSize;
     cocos2d::Vec2 origin;
@@ -34,15 +38,21 @@ private:
     
     GridSpace *gridArray[GRID_ROWS][GRID_COLS]; //Grid Array storing all grid spaces
     
-    GridSpace *openSteps;       //Open Steps for Pathfinding
-    GridSpace *closedSteps;     //Closed Steps for Pathfinding
-    GridSpace *shortestPath;    //Shorteset Path found through Pathfinding
+    GridSpace *openSteps[GRID_ROWS * GRID_COLS];       //Open Steps for Pathfinding
+    GridSpace *closedSteps[GRID_ROWS * GRID_COLS];     //Closed Steps for Pathfinding
+    GridSpace *shortestPath[GRID_ROWS * GRID_COLS];    //Shortest Path found through Pathfinding
     
-    Creep *creepVector;    //Enemy Units in the player's grid
-    Tower *towerVector;    //Constructed Towers in the player's grid
+    GridSpace *spawnSpace;  //Space where units spawn
+    GridSpace *goalSpace;   //Space where units are trying to go
+    
+    Creep *creepVector[MAX_CREEPS];    //Enemy Units in the player's grid
+    Tower *towerArray[GRID_ROWS * GRID_COLS];    //Constructed Towers in the player's grid
     
     float cellHeight;
     float cellWidth;
+    
+    int playerGold;
+    int playerIncome;
     
 };
 

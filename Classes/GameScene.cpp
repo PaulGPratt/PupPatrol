@@ -44,6 +44,13 @@ bool GameScene::init()
     return true;
 }
 
+bool GameScene::onTouchBegan( cocos2d::Touch *touch, cocos2d::Event *event )
+{
+    touch->getLocation();
+    
+    return true;
+}
+
 
 void GameScene::update(float dt)
 {

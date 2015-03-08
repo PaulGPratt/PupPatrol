@@ -22,7 +22,7 @@
 		<key>72D699F7C5CA36988EBDAEF903AAAA234AED410F</key>
 		<string>../../..</string>
 		<key>BEF978D470F1DECCA8A244F4B070F25CD8A9C5E2</key>
-		<string>../../..Classes/</string>
+		<string>../../..Classes</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/invocial/PupPatrol.git</string>
@@ -36,17 +36,17 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>BEF978D470F1DECCA8A244F4B070F25CD8A9C5E2</string>
+			<string>72D699F7C5CA36988EBDAEF903AAAA234AED410F</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Classes</string>
+			<string>PupPatrol</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>72D699F7C5CA36988EBDAEF903AAAA234AED410F</string>
+			<string>BEF978D470F1DECCA8A244F4B070F25CD8A9C5E2</string>
 			<key>IDESourceControlWCCName</key>
-			<string>PupPatrol</string>
+			<string>PupPatrolClasses</string>
 		</dict>
 	</array>
 </dict>

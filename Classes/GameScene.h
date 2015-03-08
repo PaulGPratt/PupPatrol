@@ -19,9 +19,8 @@ public:
     
 private:
     
-    
-    
     void update(float dt);
+    bool onTouchBegan( cocos2d::Touch *touch, cocos2d::Event *event );
     
     GameGrid *gameGridA;
     GameGrid *gameGridB;

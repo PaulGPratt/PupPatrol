@@ -12,14 +12,19 @@
 #include <stdio.h>
 #include "cocos2d.h"
 
-class Tower
+class GameGrid;
+class GridSpace;
+
+class Tower : public cocos2d::Node
 {
 public:
-    Tower( cocos2d::Layer *layer );
+    Tower(GameGrid *gameGrid, GridSpace *buildSpace);
     
 private:
     cocos2d::Size visibleSize;
     cocos2d::Vec2 origin;
+    
+    GridSpace *space;   //The Location of the tower in the grid
     
 };
 
