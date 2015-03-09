@@ -1,1054 +1,1054 @@
 obj/local/armeabi/objs-debug/cocos2dcpp_shared/hellocpp/main.o: \
  jni/hellocpp/main.cpp jni/../../Classes/AppDelegate.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../cocos2d.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccConfig.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCPlatformConfig.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCRef.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCPlatformMacros.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccConfig.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCPlatformDefine.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCPlatformDefine-android.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/android/log.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCRefPtr.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCRef.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccMacros.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCConsole.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/select.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/cdefs.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/android/api-level.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/time.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/types.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/stdint.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/_types.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/machine/_types.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/_wchar_limits.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/posix_types.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/stddef.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/compiler.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/posix_types.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/types.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/types.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/machine/kernel.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/time.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/signal.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/limits.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/limits.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/limits.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/machine/internal_types.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/machine/limits.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/syslimits.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/page.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/string.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/malloc.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/signal.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/siginfo.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/thread \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/vector \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/map \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCStdC.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCStdC-android.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/math.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/stdlib.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/alloca.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/strings.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/memory.h \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccRandom.h \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/random \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCVector.h \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCMap.h \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCAutoreleasePool.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCNS.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCGeometry.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCMath.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec2.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCMathBase.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec2.inl \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec2.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec3.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec3.inl \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec3.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Mat4.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec4.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec4.inl \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Mat4.inl \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec4.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Mat4.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Quaternion.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Quaternion.inl \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCData.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCValue.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccMacros.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccTypes.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCGL.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCGL-android.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/GLES2/gl2platform.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/KHR/khrplatform.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/GLES2/gl2.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/GLES2/gl2ext.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCConfiguration.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCValue.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCDirector.h \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/stack \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCVector.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCScene.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCProtocols.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccTypes.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTexture2D.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCScriptSupport.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCCommon.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCTouch.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventTouch.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEvent.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventKeyboard.h \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/list \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCAffineTransform.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCGLView.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCScheduler.h \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/set \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/uthash.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/inttypes.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/base64.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ZipUtils.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCFileUtils-android.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCFileUtils.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCData.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/jni.h \
- /Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/android/asset_manager.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCProfiling.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCMap.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCConsole.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccUTF8.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCUserDefault.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCIMEDelegate.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCIMEDispatcher.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCIMEDelegate.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccUtils.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventType.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventDispatcher.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListener.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerTouch.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventTouch.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerKeyboard.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventKeyboard.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerMouse.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventMouse.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventMouse.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventAcceleration.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerAcceleration.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventCustom.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerCustom.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventFocus.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerFocus.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCAffineTransform.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCGeometry.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec2.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec3.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec4.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Mat4.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Quaternion.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/MathUtil.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCMathBase.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCVertex.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAction.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionInterval.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAction.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAnimation.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSpriteFrame.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionCamera.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionInterval.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionManager.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionEase.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionPageTurn3D.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionGrid3D.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionGrid.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionInstant.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionGrid.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionProgressTimer.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionGrid3D.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionTiledGrid.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionInstant.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionTween.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionCatmullRom.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTweenFunction.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCProtectedNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAtlasNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCQuadCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCRenderCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGLProgramState.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCDrawingPrimitives.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCDrawNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCCustomCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLabelAtlas.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAtlasNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLabelTTF.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLabelBMFont.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLabel.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSpriteBatchNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTextureAtlas.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCBatchCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCFontAtlas.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLabel.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCFontFNT.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCFont.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLayer.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCScene.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTransition.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTransitionPageTurn.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTransition.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTransitionProgress.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCMenu.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCMenuItem.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLayer.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCMenuItem.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCClippingNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGroupCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCRenderCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCClippingRectangleNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCMotionStreak.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCProgressTimer.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCRenderTexture.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSprite.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCDrawNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCImage.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCNodeGrid.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleBatchNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleSystem.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleExamples.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleSystemQuad.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleSystem.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleSystemQuad.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCGrabber.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCGrid.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCDirector.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCCamera.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCFrustum.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAABB.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCOBB.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAABB.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCPlane.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLight.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCProtocols.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCCustomCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGroupCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCQuadCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCRenderCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCRenderCommandPool.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCRenderer.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGLProgram.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGLProgram.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGLProgramCache.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGLProgramState.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/ccGLStateCache.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/ccShaders.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTexture2D.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTextureCache.h \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/queue \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCVertexIndexBuffer.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCVertexIndexData.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCPrimitive.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCVertexIndexData.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCPrimitiveCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCPrimitive.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTrianglesCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsBody.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsShape.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsContact.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerCustom.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventCustom.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsShape.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsJoint.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsWorld.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsBody.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCDevice.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCCommon.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCFileUtils.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCImage.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCSAXParser.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCThread.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCPlatformConfig.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCPlatformMacros.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCApplication-android.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCApplicationProtocol.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCAutoreleasePool.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCGLViewImpl-android.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCGL-android.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCStdC-android.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCScriptSupport.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAnimation.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAnimationCache.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSprite.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSpriteBatchNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSpriteFrame.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSpriteFrameCache.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTextFieldTTF.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTextureAtlas.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParallaxNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXLayer.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXXMLParser.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCSAXParser.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccCArray.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXTiledMap.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXXMLParser.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTileMapAtlas.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAtlasNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCFastTMXTiledMap.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCFastTMXLayer.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCPrimitiveCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCComponent.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCComponentContainer.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAABB.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCOBB.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCRay.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCSprite3D.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCMeshCommand.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCSkeleton3D.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCBundle3DData.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCMeshVertexIndexData.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCVertexIndexBuffer.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCMesh.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCMeshSkin.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAnimate3D.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAnimation3D.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAnimationCurve.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAnimationCurve.inl \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAnimation3D.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCSprite3DMaterial.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAttachNode.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCMeshVertexIndexData.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCSkeleton3D.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCBillBoard.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCFrustum.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCPlane.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCDictionary.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCArray.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCDataVisitor.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCString.h \
- /Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCArray.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCSet.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCInteger.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCFloat.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCDouble.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCBool.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCString.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCNotificationCenter.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCDeprecated.h \
- /Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/jni/JniHelper.h
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../cocos2d.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccConfig.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCPlatformConfig.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCRef.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCPlatformMacros.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccConfig.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCPlatformDefine.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCPlatformDefine-android.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/android/log.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCRefPtr.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCRef.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccMacros.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCConsole.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/select.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/cdefs.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/android/api-level.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/time.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/types.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/stdint.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/_types.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/machine/_types.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/_wchar_limits.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/posix_types.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/stddef.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/compiler.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/posix_types.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/types.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/types.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/machine/kernel.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/time.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/signal.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/limits.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/limits.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/limits.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/machine/internal_types.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/machine/limits.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/syslimits.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/page.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/string.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/malloc.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/signal.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/siginfo.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/thread \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/vector \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/map \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCStdC.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCStdC-android.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/math.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/stdlib.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/alloca.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/strings.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/memory.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccRandom.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/random \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCVector.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCMap.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCAutoreleasePool.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCNS.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCGeometry.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCMath.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec2.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCMathBase.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec2.inl \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec2.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec3.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec3.inl \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec3.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Mat4.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec4.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec4.inl \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Mat4.inl \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec4.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Mat4.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Quaternion.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Quaternion.inl \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCData.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCValue.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccMacros.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccTypes.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCGL.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCGL-android.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/GLES2/gl2platform.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/KHR/khrplatform.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/GLES2/gl2.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/GLES2/gl2ext.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCConfiguration.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCValue.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCDirector.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/stack \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCVector.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCScene.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCProtocols.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccTypes.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTexture2D.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCScriptSupport.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCCommon.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCTouch.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventTouch.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEvent.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventKeyboard.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/list \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCAffineTransform.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCGLView.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCScheduler.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/set \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/uthash.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/inttypes.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/base64.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ZipUtils.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCFileUtils-android.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCFileUtils.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCData.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/jni.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/android/asset_manager.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCProfiling.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCMap.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCConsole.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccUTF8.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCUserDefault.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCIMEDelegate.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCIMEDispatcher.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCIMEDelegate.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccUtils.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventType.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventDispatcher.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListener.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerTouch.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventTouch.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerKeyboard.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventKeyboard.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerMouse.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventMouse.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventMouse.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventAcceleration.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerAcceleration.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventCustom.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerCustom.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventFocus.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerFocus.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCAffineTransform.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCGeometry.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec2.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec3.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec4.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Mat4.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Quaternion.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/MathUtil.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCMathBase.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCVertex.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAction.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionInterval.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAction.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAnimation.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSpriteFrame.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionCamera.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionInterval.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionManager.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionEase.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionPageTurn3D.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionGrid3D.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionGrid.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionInstant.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionGrid.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionProgressTimer.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionGrid3D.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionTiledGrid.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionInstant.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionTween.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionCatmullRom.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTweenFunction.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCProtectedNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAtlasNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCQuadCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCRenderCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGLProgramState.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCDrawingPrimitives.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCDrawNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCCustomCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLabelAtlas.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAtlasNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLabelTTF.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLabelBMFont.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLabel.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSpriteBatchNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTextureAtlas.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCBatchCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCFontAtlas.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLabel.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCFontFNT.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCFont.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLayer.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCScene.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTransition.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTransitionPageTurn.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTransition.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTransitionProgress.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCMenu.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCMenuItem.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLayer.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCMenuItem.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCClippingNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGroupCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCRenderCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCClippingRectangleNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCMotionStreak.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCProgressTimer.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCRenderTexture.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSprite.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCDrawNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCImage.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCNodeGrid.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleBatchNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleSystem.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleExamples.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleSystemQuad.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleSystem.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleSystemQuad.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCGrabber.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCGrid.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCDirector.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCCamera.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCFrustum.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAABB.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCOBB.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAABB.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCPlane.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLight.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCProtocols.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCCustomCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGroupCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCQuadCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCRenderCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCRenderCommandPool.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCRenderer.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGLProgram.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGLProgram.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGLProgramCache.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGLProgramState.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/ccGLStateCache.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/ccShaders.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTexture2D.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTextureCache.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/queue \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCVertexIndexBuffer.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCVertexIndexData.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCPrimitive.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCVertexIndexData.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCPrimitiveCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCPrimitive.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTrianglesCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsBody.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsShape.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsContact.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerCustom.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventCustom.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsShape.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsJoint.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsWorld.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsBody.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCDevice.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCCommon.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCFileUtils.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCImage.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCSAXParser.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCThread.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCPlatformConfig.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCPlatformMacros.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCApplication-android.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCApplicationProtocol.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCAutoreleasePool.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCGLViewImpl-android.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCGL-android.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCStdC-android.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCScriptSupport.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAnimation.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAnimationCache.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSprite.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSpriteBatchNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSpriteFrame.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSpriteFrameCache.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTextFieldTTF.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTextureAtlas.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParallaxNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXLayer.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXXMLParser.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCSAXParser.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccCArray.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXTiledMap.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXXMLParser.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTileMapAtlas.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAtlasNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCFastTMXTiledMap.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCFastTMXLayer.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCPrimitiveCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCComponent.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCComponentContainer.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAABB.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCOBB.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCRay.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCSprite3D.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCMeshCommand.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCSkeleton3D.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCBundle3DData.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCMeshVertexIndexData.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCVertexIndexBuffer.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCMesh.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCMeshSkin.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAnimate3D.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAnimation3D.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAnimationCurve.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAnimationCurve.inl \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAnimation3D.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCSprite3DMaterial.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAttachNode.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCMeshVertexIndexData.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCSkeleton3D.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCBillBoard.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCFrustum.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCPlane.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCDictionary.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCArray.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCDataVisitor.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCString.h \
+ C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCArray.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCSet.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCInteger.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCFloat.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCDouble.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCBool.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCString.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCNotificationCenter.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCDeprecated.h \
+ C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/jni/JniHelper.h
 
 jni/../../Classes/AppDelegate.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../cocos2d.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../cocos2d.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccConfig.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccConfig.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCPlatformConfig.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCPlatformConfig.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCRef.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCRef.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCPlatformMacros.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCPlatformMacros.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccConfig.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccConfig.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCPlatformDefine.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCPlatformDefine.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCPlatformDefine-android.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCPlatformDefine-android.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/android/log.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/android/log.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCRefPtr.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCRefPtr.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCRef.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCRef.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccMacros.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccMacros.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCConsole.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCConsole.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/select.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/select.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/cdefs.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/cdefs.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/android/api-level.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/android/api-level.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/time.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/time.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/types.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/types.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/stdint.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/stdint.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/_types.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/_types.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/machine/_types.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/machine/_types.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/_wchar_limits.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/_wchar_limits.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/posix_types.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/posix_types.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/stddef.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/stddef.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/compiler.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/compiler.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/posix_types.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/posix_types.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/types.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/types.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/types.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/types.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/machine/kernel.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/machine/kernel.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/time.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/time.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/signal.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/signal.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/limits.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/limits.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/limits.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/limits.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/linux/limits.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/linux/limits.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/machine/internal_types.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/machine/internal_types.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/machine/limits.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/machine/limits.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/sys/syslimits.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/sys/syslimits.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/page.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/page.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/string.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/string.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/malloc.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/malloc.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/signal.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/signal.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm/siginfo.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm/siginfo.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/thread:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/thread:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/vector:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/vector:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/map:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/map:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCStdC.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCStdC.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCStdC-android.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCStdC-android.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/math.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/math.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/stdlib.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/stdlib.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/alloca.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/alloca.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/strings.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/strings.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/memory.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/memory.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccRandom.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccRandom.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/random:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/random:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCVector.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCVector.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCMap.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCMap.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCAutoreleasePool.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCAutoreleasePool.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCNS.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCNS.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCGeometry.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCGeometry.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCMath.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCMath.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec2.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec2.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCMathBase.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCMathBase.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec2.inl:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec2.inl:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec2.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec2.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec3.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec3.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec3.inl:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec3.inl:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec3.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec3.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Mat4.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Mat4.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec4.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec4.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec4.inl:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec4.inl:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Mat4.inl:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Mat4.inl:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec4.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec4.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Mat4.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Mat4.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Quaternion.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Quaternion.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Quaternion.inl:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Quaternion.inl:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCData.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCData.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCValue.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCValue.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccMacros.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccMacros.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccTypes.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccTypes.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCGL.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCGL.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCGL-android.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCGL-android.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/GLES2/gl2platform.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/GLES2/gl2platform.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/KHR/khrplatform.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/KHR/khrplatform.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/GLES2/gl2.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/GLES2/gl2.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/GLES2/gl2ext.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/GLES2/gl2ext.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCConfiguration.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCConfiguration.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCValue.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCValue.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCDirector.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCDirector.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/stack:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/stack:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCVector.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCVector.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCScene.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCScene.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCProtocols.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCProtocols.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccTypes.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccTypes.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTexture2D.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTexture2D.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCScriptSupport.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCScriptSupport.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCCommon.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCCommon.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCTouch.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCTouch.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventTouch.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventTouch.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEvent.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEvent.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventKeyboard.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventKeyboard.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/list:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/list:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCAffineTransform.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCAffineTransform.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCGLView.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCGLView.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCScheduler.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCScheduler.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/set:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/set:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/uthash.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/uthash.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/inttypes.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/inttypes.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/base64.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/base64.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ZipUtils.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ZipUtils.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCFileUtils-android.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCFileUtils-android.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCFileUtils.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCFileUtils.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCData.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCData.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/jni.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/jni.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/platforms/android-19/arch-arm/usr/include/android/asset_manager.h:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/platforms/android-19/arch-arm/usr/include/android/asset_manager.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCProfiling.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCProfiling.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCMap.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCMap.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCConsole.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCConsole.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccUTF8.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccUTF8.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCUserDefault.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCUserDefault.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCIMEDelegate.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCIMEDelegate.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCIMEDispatcher.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCIMEDispatcher.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCIMEDelegate.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCIMEDelegate.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccUtils.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccUtils.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventType.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventType.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventDispatcher.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventDispatcher.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListener.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListener.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerTouch.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerTouch.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventTouch.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventTouch.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerKeyboard.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerKeyboard.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventKeyboard.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventKeyboard.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerMouse.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerMouse.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventMouse.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventMouse.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventMouse.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventMouse.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventAcceleration.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventAcceleration.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerAcceleration.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerAcceleration.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventCustom.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventCustom.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerCustom.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerCustom.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventFocus.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventFocus.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerFocus.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerFocus.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCAffineTransform.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCAffineTransform.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCGeometry.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCGeometry.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec2.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec2.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec3.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec3.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Vec4.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Vec4.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Mat4.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Mat4.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/Quaternion.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/Quaternion.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/MathUtil.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/MathUtil.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCMathBase.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCMathBase.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../math/CCVertex.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../math/CCVertex.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAction.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAction.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionInterval.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionInterval.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAction.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAction.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAnimation.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAnimation.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSpriteFrame.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSpriteFrame.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionCamera.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionCamera.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionInterval.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionInterval.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionManager.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionManager.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionEase.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionEase.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionPageTurn3D.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionPageTurn3D.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionGrid3D.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionGrid3D.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionGrid.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionGrid.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionInstant.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionInstant.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionGrid.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionGrid.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionProgressTimer.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionProgressTimer.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionGrid3D.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionGrid3D.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionTiledGrid.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionTiledGrid.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionInstant.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionInstant.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionTween.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionTween.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCActionCatmullRom.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCActionCatmullRom.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTweenFunction.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTweenFunction.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCProtectedNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCProtectedNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAtlasNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAtlasNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCQuadCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCQuadCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCRenderCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCRenderCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGLProgramState.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGLProgramState.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCDrawingPrimitives.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCDrawingPrimitives.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCDrawNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCDrawNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCCustomCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCCustomCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLabelAtlas.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLabelAtlas.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAtlasNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAtlasNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLabelTTF.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLabelTTF.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLabelBMFont.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLabelBMFont.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLabel.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLabel.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSpriteBatchNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSpriteBatchNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTextureAtlas.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTextureAtlas.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCBatchCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCBatchCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCFontAtlas.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCFontAtlas.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLabel.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLabel.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCFontFNT.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCFontFNT.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCFont.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCFont.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLayer.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLayer.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCScene.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCScene.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTransition.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTransition.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTransitionPageTurn.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTransitionPageTurn.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTransition.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTransition.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTransitionProgress.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTransitionProgress.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCMenu.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCMenu.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCMenuItem.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCMenuItem.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLayer.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLayer.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCMenuItem.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCMenuItem.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCClippingNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCClippingNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGroupCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGroupCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCRenderCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCRenderCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCClippingRectangleNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCClippingRectangleNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCMotionStreak.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCMotionStreak.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCProgressTimer.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCProgressTimer.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCRenderTexture.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCRenderTexture.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSprite.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSprite.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCDrawNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCDrawNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCImage.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCImage.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCNodeGrid.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCNodeGrid.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleBatchNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleBatchNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleSystem.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleSystem.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleExamples.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleExamples.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleSystemQuad.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleSystemQuad.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleSystem.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleSystem.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParticleSystemQuad.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParticleSystemQuad.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCGrabber.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCGrabber.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCGrid.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCGrid.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCDirector.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCDirector.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCCamera.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCCamera.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCFrustum.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCFrustum.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAABB.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAABB.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCOBB.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCOBB.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAABB.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAABB.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCPlane.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCPlane.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCLight.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCLight.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCProtocols.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCProtocols.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCCustomCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCCustomCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGroupCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGroupCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCQuadCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCQuadCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCRenderCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCRenderCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCRenderCommandPool.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCRenderCommandPool.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCRenderer.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCRenderer.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGLProgram.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGLProgram.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGLProgram.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGLProgram.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGLProgramCache.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGLProgramCache.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCGLProgramState.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCGLProgramState.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/ccGLStateCache.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/ccGLStateCache.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/ccShaders.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/ccShaders.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTexture2D.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTexture2D.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTextureCache.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTextureCache.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/queue:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/queue:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCVertexIndexBuffer.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCVertexIndexBuffer.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCVertexIndexData.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCVertexIndexData.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCPrimitive.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCPrimitive.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCVertexIndexData.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCVertexIndexData.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCPrimitiveCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCPrimitiveCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCPrimitive.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCPrimitive.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTrianglesCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTrianglesCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsBody.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsBody.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsShape.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsShape.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsContact.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsContact.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventListenerCustom.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventListenerCustom.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCEventCustom.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCEventCustom.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsShape.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsShape.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsJoint.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsJoint.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsWorld.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsWorld.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../physics/CCPhysicsBody.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../physics/CCPhysicsBody.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCDevice.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCDevice.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCCommon.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCCommon.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCFileUtils.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCFileUtils.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCImage.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCImage.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCSAXParser.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCSAXParser.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCThread.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCThread.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCPlatformConfig.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCPlatformConfig.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCPlatformMacros.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCPlatformMacros.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCApplication-android.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCApplication-android.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCApplicationProtocol.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCApplicationProtocol.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCAutoreleasePool.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCAutoreleasePool.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCGLViewImpl-android.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCGLViewImpl-android.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCGL-android.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCGL-android.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/CCStdC-android.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/CCStdC-android.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCScriptSupport.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCScriptSupport.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAnimation.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAnimation.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAnimationCache.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAnimationCache.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSprite.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSprite.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSpriteBatchNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSpriteBatchNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSpriteFrame.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSpriteFrame.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCSpriteFrameCache.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCSpriteFrameCache.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTextFieldTTF.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTextFieldTTF.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCTextureAtlas.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCTextureAtlas.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCParallaxNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCParallaxNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXLayer.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXLayer.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXXMLParser.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXXMLParser.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/CCSAXParser.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/CCSAXParser.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/ccCArray.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/ccCArray.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXTiledMap.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXTiledMap.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXXMLParser.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXXMLParser.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTileMapAtlas.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTileMapAtlas.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCAtlasNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCAtlasNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCFastTMXTiledMap.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCFastTMXTiledMap.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCTMXObjectGroup.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCFastTMXLayer.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCFastTMXLayer.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCPrimitiveCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCPrimitiveCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCComponent.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCComponent.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../2d/CCComponentContainer.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../2d/CCComponentContainer.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAABB.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAABB.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCOBB.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCOBB.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCRay.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCRay.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCSprite3D.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCSprite3D.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCMeshCommand.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCMeshCommand.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCSkeleton3D.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCSkeleton3D.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCBundle3DData.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCBundle3DData.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCMeshVertexIndexData.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCMeshVertexIndexData.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../renderer/CCVertexIndexBuffer.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../renderer/CCVertexIndexBuffer.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCMesh.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCMesh.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCMeshSkin.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCMeshSkin.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAnimate3D.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAnimate3D.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAnimation3D.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAnimation3D.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAnimationCurve.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAnimationCurve.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAnimationCurve.inl:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAnimationCurve.inl:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAnimation3D.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAnimation3D.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCSprite3DMaterial.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCSprite3DMaterial.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCAttachNode.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCAttachNode.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCMeshVertexIndexData.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCMeshVertexIndexData.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCSkeleton3D.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCSkeleton3D.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCBillBoard.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCBillBoard.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCFrustum.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCFrustum.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../3d/CCPlane.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../3d/CCPlane.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCDictionary.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCDictionary.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCArray.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCArray.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../base/CCDataVisitor.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../base/CCDataVisitor.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCString.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCString.h:
 
-/Users/invocial/Desktop/Development/Android/ndk/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream:
+C:/Users/owner/Desktop/Android/ndk/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCArray.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCArray.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCSet.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCSet.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCInteger.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCInteger.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCFloat.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCFloat.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCDouble.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCDouble.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCBool.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCBool.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCString.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCString.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCNotificationCenter.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCNotificationCenter.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../deprecated/CCDeprecated.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../deprecated/CCDeprecated.h:
 
-/Users/invocial/Desktop/PupPatrol/PupPatrol/proj.android/../cocos2d/cocos/3d/../platform/android/jni/JniHelper.h:
+C:\Users\owner\Desktop\PupPatrol\proj.android\../cocos2d/cocos/3d/../platform/android/jni/JniHelper.h:
